@@ -2,6 +2,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Bytooo)
 <img src=https://img.shields.io/badge/Discord%3A-Byto%234794-black>
+[![Twitter Badge](https://img.shields.io/badge/-@Byto__-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Byto__)](https://twitter.com/Byto__)
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <br />
